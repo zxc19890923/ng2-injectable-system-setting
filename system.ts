@@ -1,3 +1,4 @@
+其实修改数据是在数据库中配置的，服务可以实现组件和组件之间的数据传输。和@Input / @Output一样的效果
 1. system.injectable.ts
 
 import {Injectable} from "@angular/core";
